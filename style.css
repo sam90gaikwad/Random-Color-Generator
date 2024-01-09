@@ -1,0 +1,15 @@
+.color{
+    width: 300px;
+    height: 150px;
+    border: 2px solod red;
+    border-radius: 2px;
+}
+
+#colorContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+   gap: 1.4rem;
+   margin: 20px 34px;
+    
+}
+
